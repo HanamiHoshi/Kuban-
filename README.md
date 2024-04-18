@@ -1,2 +1,0 @@
-# Kuban-
-web-site
